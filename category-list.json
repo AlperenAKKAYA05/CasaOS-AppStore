@@ -133,5 +133,10 @@
     "name": "Database",
     "font": "database-the-application",
     "description": "Database Apps"
+  },
+  {
+    "name": "Spotify",
+    "font": "Spotify",
+    "description": "Spotify"
   }
 ]
